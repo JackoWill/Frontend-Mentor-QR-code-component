@@ -23,8 +23,8 @@ I built this simple QR component using flexbox and grid, applying the knowledge 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-5Y1nV8Ffrf)
+- Live Site URL: [Add live site URL here](https://symphonious-shortbread-5bc2ab.netlify.app/)
 
 ## My process
 
