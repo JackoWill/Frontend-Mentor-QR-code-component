@@ -6,11 +6,11 @@
 
 body {
   background-color: hsl(212, 45%, 89%);
-  width: 100%;
   min-height: 100vh;
-  display: grid;
+  display: flex;
+  justify-content: center;
   align-items: center;
-  justify-items: center;
+
   font-family: "Outfit", "sans-serif";
   font-size: 15px;
 }
@@ -44,19 +44,4 @@ body {
   font-weight: 400px;
   padding: 0 15px;
   margin-bottom: 20px;
-}
-
-/* .my_name {
-  text-decoration: none;
-  color: hsl(228, 45%, 44%);
-} */
-
-/* FOOTER STYLING*/
-
-.attribution {
-  font-size: 14px;
-  text-align: center;
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
 }
