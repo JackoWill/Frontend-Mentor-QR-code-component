@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-I have built this simple QR component using flexbox. I have applied the knowledge I have learnt from the past week from learning basic HTML & CSS. I had a lot of fun building this and cant wait to learn more and build more projects!
+I have built this simple QR component using flexbox. I have applied the knowledge I have learnt from the past week from learning basic HTML & CSS. I had a lot of fun building this and cant wait to continue my learning journey and build more projects.
 
 ### Screenshot
 
@@ -23,8 +23,8 @@ I have built this simple QR component using flexbox. I have applied the knowledg
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-5Y1nV8Ffrf)
-- Live Site URL: [Add live site URL here](https://symphonious-shortbread-5bc2ab.netlify.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-5Y1nV8Ffrf](
+- Live Site URL: [https://symphonious-shortbread-5bc2ab.netlify.app/]
 
 ### Built with
 
